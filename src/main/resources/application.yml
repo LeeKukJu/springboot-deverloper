@@ -11,6 +11,9 @@ spring:
   h2:
     console:
       enabled: true
+jwt:
+  issuer: ckzmfk19@kakao.com
+  secret_key: study-springboot
 
 server:
   port: 8180
